@@ -2,7 +2,7 @@
 
 return [
     'host'      => 'localhost',
-    'name'      => 'test_task_tickets_ua',
+    'name'      => 'test',
     'user'      => 'root',
     'password'  => ''
 ];
